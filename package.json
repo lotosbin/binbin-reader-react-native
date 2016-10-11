@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/lotosbin/binbin-reader-react-native/issues"
   },
-  "homepage": "https://github.com/lotosbin/binbin-reader-react-native#readme"
+  "homepage": "https://github.com/lotosbin/binbin-reader-react-native#readme",
+  "dependencies": {
+  }
 }
